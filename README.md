@@ -22,3 +22,5 @@ Ask for `GET /api/files/1647983077983-7762.json`!
 ## Delete a file
 
 Just send an HTTP request `DELETE /api/files/1647983077983-7762.json`
+
+source : <https://github.com/aleygues/files-service>
